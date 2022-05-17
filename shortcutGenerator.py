@@ -1,3 +1,4 @@
+# chrome에 설정가능한 바로가기 개수를 초과해서 바로가기.html을 만들었는데, 매번 태그와 주소, 이름을 설정하기 귀찮아서 자동화함.
 from bs4 import BeautifulSoup 
 
 
